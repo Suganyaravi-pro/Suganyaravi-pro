@@ -1,8 +1,8 @@
-# Hey, I'm [Suganya Ravichandran] 👋
+# Hey, I'm Suganya Ravichandran 🤖
 
 ⚙️ Automation Developer | 🔄 Power Platform & RPA Specialist | 🌍 Based in Finland
 
-I'm an Automation Developer with 8 years of hands-on experience designing, building, and maintaining enterprise automation solutions using **Microsoft Power Platform** and **Kofax RPA**. I turn manual, repetitive business processes into reliable, governed, and scalable automated workflows — from citizen-developer enablement hubs to end-to-end KYC/CDD verification bots.
+I'm an Automation Developer with 8 years of hands-on experience designing, building, and maintaining enterprise automation solutions using **Microsoft Power Platform** and **Kofax RPA**. I turn manual, repetitive business processes into reliable, governed, and scalable automated workflows from citizen-developer enablement hubs to end-to-end KYC/CDD verification bots.
 
 My work sits at the intersection of **low-code development, workflow automation, and governance** — I care as much about making automation *scale safely* across an organization as I do about writing the flow itself.
 
@@ -63,5 +63,5 @@ An end-to-end RPA solution automating Ultimate Beneficial Owner verification for
 I'm always happy to connect with fellow automation developers, low-code/no-code enthusiasts, and anyone exploring a transition into Power Platform or RPA. If you want to talk governance, workflow design, or how to make citizen development actually scale — let's chat!
 
 <!---
-[Suganya Ravichandran] is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suganya Ravichandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
