@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm [Suganya Ravichandran] 👋
 
 ⚙️ Automation Developer | 🔄 Power Platform & RPA Specialist | 🌍 Based in Finland
 
@@ -54,8 +54,8 @@ An end-to-end RPA solution automating Ultimate Beneficial Owner verification for
 
 ## 📬 Reach Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [suganyaravi117@gmail.com](mailto:suganyaravi117@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/suganya-ravichandranit](www.linkedin.com/in/suganya-ravichandranit)
 - 🌍 Location: Finland
 
 ## 🌟 Let's Connect
@@ -63,5 +63,5 @@ An end-to-end RPA solution automating Ultimate Beneficial Owner verification for
 I'm always happy to connect with fellow automation developers, low-code/no-code enthusiasts, and anyone exploring a transition into Power Platform or RPA. If you want to talk governance, workflow design, or how to make citizen development actually scale — let's chat!
 
 <!---
-[Your Name] is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Suganya Ravichandran] is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
