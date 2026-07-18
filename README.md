@@ -55,7 +55,7 @@ An end-to-end RPA solution automating Ultimate Beneficial Owner verification for
 ## 📬 Reach Me
 
 - 📧 Email: [suganyaravi117@gmail.com](mailto:suganyaravi117@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/suganya-ravichandranit](www.linkedin.com/in/suganya-ravichandranit)
+- 💼 LinkedIn: [linkedin.com/in/suganya-ravichandranit](https://www.linkedin.com/in/suganya-ravichandranit)
 - 🌍 Location: Finland
 
 ## 🌟 Let's Connect
