@@ -2,21 +2,18 @@
 
 ⚙️ Automation Developer | 🔄 Power Platform & RPA Specialist | 🌍 Based in Finland
 
-I'm an Automation Developer with 8 years of hands-on experience designing, building, and maintaining enterprise automation solutions using **Microsoft Power Platform** and **Kofax RPA**. I turn manual, repetitive business processes into reliable, governed, and scalable automated workflows from citizen-developer enablement hubs to end-to-end KYC/CDD verification bots.
-
-My work sits at the intersection of **low-code development, workflow automation, and governance** — I care as much about making automation *scale safely* across an organization as I do about writing the flow itself.
+I'm an Automation Developer with 8 years of hands-on experience designing, building, and maintaining enterprise automation solutions using Microsoft Power Platform and Kofax RPA. I specialize in workflow automation, business process optimization, and governance, turning business requirements into scalable solutions through process analysis, design, development, and continuous improvement. Strong track record of troubleshooting, cross-functional collaboration, and providing ongoing support for enterprise automation initiatives.
 
 ## 🚀 What I Do
 
 - 🔧 Build **Power Apps Canvas** applications and **Power Automate** cloud flows for business process automation
 - 🤖 Design and maintain **Kofax RPA** bots for data extraction, validation, and system integration
 - 🛡️ Implement **governance controls** for citizen developer / low-code platforms
-- 📊 Automate **KYC, CDD, and UBO verification** workflows in regulated environments
-- 🧩 Translate business requirements into scalable, maintainable automation architecture
+- 📊 Automate **KYC, CDD, EDD, AML, and UBO verification** woows in regulated environments
+- 🧩 Translate business requirements into scalable and maintainable automation architecture
 
 ## 📊 Currently Working On
 
-- 🏗️ Building out this GitHub with real project write-ups from my Power Platform & RPA work
 - 📚 Deepening my skills in software design and development practices (certificate program in progress)
 - 🔍 Exploring how AI-enabled tools can extend traditional RPA capabilities
 
@@ -38,17 +35,18 @@ My work sits at the intersection of **low-code development, workflow automation,
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ## 📌 Featured Projects
 
 ### 🏗️ Power Platform Enablement Hub
-A centralized Power Apps Canvas app supporting makers through their entire Power Platform journey — with modules for dashboards, certifications, environment management, licensing, and support. Built to be a one-stop-shop for enablement resources.
+I built a centralized Power Apps Canvas app to support makers throughout their Power Platform journey. I designed an intuitive interface with modules for Dashboard, Certifications, Environment, Licensing, Guidelines & Learnings, and Support, creating a one-stop solution that made it easier for people to find enablement resources and improved the overall user experience.
 
 ### 🔐 Maker Onboarding & Governance Workflow
-A Power Automate workflow automating the citizen-developer onboarding and approval process, enforcing mandatory assessment completion before Advanced Citizen Developer access is granted — integrated with an internal access provisioning portal.
+I designed and built a Power Automate workflow to automate the Maker onboarding and approval process. I implemented governance controls that enforced mandatory assessment completion before users could request Advanced Citizen Developer access, and worked with the Access Provisioning team to integrate assessment validation into the MyAccess portal, streamlining onboarding and improving compliance with organizational governance policies.
 
 ### 🕵️ UBO Verification Automation (Kofax RPA)
-An end-to-end RPA solution automating Ultimate Beneficial Owner verification for customer due diligence — including data extraction/validation, exception handling, record linking, document upload, and JSON output generation for processed records.
+I built and maintained a Kofax RPA solution to automate Ultimate Beneficial Owner (UBO) verification for customer due diligence. I automated the extraction and validation of UBO data, including age and nature-of-interest checks with exception handling, and built workflows to search, create, update, and link UBO records in the BCDB application. I also automated document retrieval and upload to Concord, and implemented end-to-end workflow automation including output file generation and JSON creation for processed records.
 
 > 💡 *Want to see the code? Each pinned repo below has a full write-up, screenshots, and lessons learned.*
 
@@ -60,7 +58,7 @@ An end-to-end RPA solution automating Ultimate Beneficial Owner verification for
 
 ## 🌟 Let's Connect
 
-I'm always happy to connect with fellow automation developers, low-code/no-code enthusiasts, and anyone exploring a transition into Power Platform or RPA. If you want to talk governance, workflow design, or how to make citizen development actually scale — let's chat!
+I'm always happy to connect with fellow automation developers, low-code/no-code enthusiasts, and anyone exploring a transition into Power Platform or RPA. If you want to talk governance, workflow design, or how to make citizen development actually scale, let's chat!
 
 <!---
 Suganya Ravichandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
